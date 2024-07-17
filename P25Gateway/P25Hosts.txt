@@ -237,7 +237,7 @@
 # 4487 448.700 UHF Repeater in Aurora, CO
 4487	N0oba1.asuscomm.cn	41000
 
-# 4519 TG P25 VHF Repeater
+# 4519 145.19 VHF Repeater in Aurora, CO
 4519	N0oba1.asuscomm.cn	41005
 
 # 4584 Great Lakes Digital Common (P25/DMR/NXDN/YSF/DSTAR/M17)
